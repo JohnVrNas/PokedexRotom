@@ -10,7 +10,7 @@ O projeto foi feito juntamente com as aulas da [Imersão Alura](https://cursos.a
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://github.com/user-attachments/assets/ddcfca2c-416e-4659-8b31-ccc2cc96068c)
+![Screenshot 2024-10-23 182931](https://github.com/user-attachments/assets/b4af7d03-2569-4d35-b3c0-7de68cd5cd9b)
 
 
 ## Detalhes do projeto
