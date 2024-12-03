@@ -1,7 +1,6 @@
 # Pokedex
 
-O projeto foi feito juntamente com as aulas da [Imersão Alura](https://cursos.alura.com.br/imersao). A ideia do projeto foi fazer um site onde as pessoas possam ver os diversos tipos de aves que habitam o parque.
-
+O projeto foi feito usando o vídeo do "Manuel do Dev".
 | 💡 Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pokedex**
