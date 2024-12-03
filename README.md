@@ -1,6 +1,6 @@
 # Pokedex
 
-O projeto foi feito usando o vídeo do "Manual do Dev".
+O projeto foi feito usando o vídeo do "Manual do Dev" como base.
 | 💡 Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pokedex**
